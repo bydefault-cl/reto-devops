@@ -99,6 +99,7 @@ Te recomendamos hacer un **fork** de este repositorio para completar el reto en 
 
 Puedes usar la metodología de branching que más te acomode y ojalá quede plasmada en el repo!. Usas MR/PR, genial!
 
+Para realizar los commits te recomendamos usar las definiciones de **Angular Commit Message Format** (<https://github.com/angular/angular/blob/master/CONTRIBUTING.md#-commit-message-format>) y **Semantic-Release** (<https://semantic-release.gitbook.io/semantic-release/>) ;).
 Si tiene alguna duda o encuentras algún problema en el reto, adelante, [abre un issue](https://github.com/bydefault-cl/reto-devops/issues).
 
 ### Reto 1. Dockerize la aplicación
