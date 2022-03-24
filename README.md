@@ -6,7 +6,7 @@ Este reto técnico fue diseñado para mostrar tus habilidades DevOps a través d
 
 En este caso, el desafío busca que implementes una aplicación simple en NodeJs.
 
-De todas maneras, recuerda que DevOps `es más que el uso de herramientas, es una filosofía, una metodología de colaboración entre desarrollo y operaciones` con el foco de acelerar el time-to-market.
+De todas maneras, recuerda que DevOps **es más que el uso de herramientas, es una filosofía, una metodología de colaboración entre desarrollo y operaciones** con el foco de acelerar el time-to-market.
 
 ## Antes de comenzar:
 
@@ -165,7 +165,7 @@ Scripting es una de las "main keys" de la automatización que busca DevOps. El r
 
 ## Disclaimer: 
 Este reto es utilizado para procesos de contratación por varias compañías. Éste en particular está basado en:
-<https://gitlab.com/clm-public/reto-devops>
-<https://gitlab.com/laramarvis/prueba-devops>
+- <https://gitlab.com/clm-public/reto-devops>
+- <https://gitlab.com/laramarvis/prueba-devops>
 
 # Happy Coding!
